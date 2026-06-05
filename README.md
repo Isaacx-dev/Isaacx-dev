@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Isaac! 👋
 
-<!--
-**Isaacx-dev/Isaacx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Developer & Bot Architect
+Sou um programador júnior focado em criar soluções eficientes, automações inteligentes e experiências interativas. Tenho forte afinidade com desenvolvimento de bots, arquitetura de servidores e lógica de programação, aplicando as melhores práticas para entregar códigos limpos e funcionais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+
+* **Linguagens:** JavaScript (ES6+), Python, Lua, HTML5, CSS3
+* **Back-End & Runtimes:** Node.js
+* **Frameworks & APIs:** Discord.js
+* **Ambientes de Desenvolvimento:** VS Code
+* **Sistemas Operativos:** Linux (Mint Cinnamon) & Windows
+
+---
+
+### 🚀 No que tenho trabalhado?
+
+* **Automações & Bots:** Desenvolvimento de bots personalizados e complexos para o Discord utilizando `discord.js`, focando em sistemas de moderação, economia e integrações API.
+* **Game Development:** Criação de scripts, mecânicas de jogo e lógica de sistemas em Lua dentro do ecossistema do Roblox Studio.
+* **Projetos Pessoais:** Arquitetura de aplicações backend em Node.js e scripts de otimização.
+
+---
+
+### 📫 Como me encontrar?
+
+* 💬 **Discord:** `isaacx_sf`
+* 🌐 **Portfólio / Projetos:** https://ntdigital.squareweb.app/
