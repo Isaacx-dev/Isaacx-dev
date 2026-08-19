@@ -26,4 +26,4 @@ Sou um programador júnior focado em criar soluções eficientes, automações i
 ### 📫 Como me encontrar?
 
 * 💬 **Discord:** `isaacx_sf`
-* 🌐 **Portfólio / Projetos:** https://ntdigital.squareweb.app/
+* 🌐 **Portfólio / Projetos:** https://discord.gg/ZYWR6gU6KD
